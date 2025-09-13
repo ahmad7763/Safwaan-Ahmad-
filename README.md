@@ -62,7 +62,7 @@ Currently exploring advanced concepts in **Data Structures, Algorithms, and Soft
 ---
 
 ## 🌐 Let's Connect  
-🌍 [Portfolio](#) • 💼 [LinkedIn](#) • 📧 safwaan@example.com  
+🌍 [Portfolio](#) • 💼 [LinkedIn](https://www.linkedin.com/in/safwaan-ahmad) • 📧 safwaanahmad74@gmail.com  
 
 ---
 
